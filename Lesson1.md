@@ -1,4 +1,4 @@
-# Lession 1
+# Lesson 1
 ## Guess
 ```python
 @app.route('/guess', methods=['GET','POST'])
