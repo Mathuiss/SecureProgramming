@@ -1,4 +1,4 @@
-# Les 2
+# Lesson 2
 ## Order Status
 ```python
 @app.route('/trackorder', methods=['GET'])
